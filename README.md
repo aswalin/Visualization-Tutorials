@@ -1,7 +1,7 @@
 # Visualization-Tutorials
 This repository will focus on plotting techniques in Python using Seaborn, Bokeh &amp; Plotly. 
-Since Plotly & Bokeh plots are interactive, they are not visible on the gihub notebooks. You can check 
-them using following links through nbviewer
+Since Plotly & Bokeh plots are interactive, they are not visible on the github notebooks. You can check 
+them out using following links through nbviewer
 1. Tutorial 1 (Seaborn) - https://nbviewer.jupyter.org/github/aswalin/Visualization-Tutorials/blob/master/Tutorial-1-Seaborn.ipynb
 2. Tutorial 2 (Bokeh) - https://nbviewer.jupyter.org/github/aswalin/Visualization-Tutorials/blob/master/Tutorial-2-Bokeh.ipynb
 3. Tutorial 3 (Plotly) - https://nbviewer.jupyter.org/github/aswalin/Visualization-Tutorials/blob/master/Tutorial-3-Plotly.ipynb
